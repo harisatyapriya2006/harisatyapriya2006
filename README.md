@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=000000&height=260&section=header&text=HARI%20SATYA%20PRIYA%20UPPALAGUPTAM&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cyber%20Security%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=260&section=header&text=HARI%20SATYA%20PRIYA%20UPPALAGUPTAM&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cyber%20Security%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;Cybersecurity+Undergraduate;Building+Secure%2C+Scalable+Products" alt="Typing Animation" />
   <br/><br/>
