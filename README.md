@@ -1,28 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8F4FB,50:AEDFF7,100:7EC8E3&custom_title=HARI%20SATYA%20PRIYA%20UPPALAGUPTAM&height=260&section=header&fontSize=32&fontColor=1B3A4B&animation=twinkling&fontAlignY=40&desc=Building%20secure%2C%20scalable%20%26%20delightful%20web%20experiences&descAlignY=60&descSize=16" width="100%" />
+<!-- Clean Blue & Ice Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_title=HARI%20SATYA%20PRIYA%20UPPALAGUPTAM&height=220&section=header&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=900&color=5FA8D3&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer+%F0%9F%8C%A5%EF%B8%8F;Full-Stack+Web+Developer+%E2%98%81%EF%B8%8F;Cybersecurity+Undergraduate+%F0%9F%94%90;Turning+Ideas+Into+Interfaces+%F0%9F%92%A0" alt="Typing Animation" />
+<!-- Floating Dynamic Typing Effect -->
+<a href="https://github.com/harisatyapriya2006">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1000&color=5FA8D3&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;Cybersecurity+Undergraduate;Turning+Ideas+Into+Interfaces" alt="Typing Animation" />
+</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=30&section=header&text=~%20~%20~%20~%20~%20~%20~%20~%20~%20~%20~%20~%20~%20~%20~%20~&fontSize=20&fontColor=AEDFF7" width="60%" />
-
-<br/>
-
-<a href="https://github.com/harisatyapriya2006"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="42" style="filter: hue-rotate(180deg) saturate(0.6);" /></a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/uppalaguptam-hari-satya-priya"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="42" /></a>
-&nbsp;&nbsp;
-<a href="mailto:harisatyapriya2006@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="42" /></a>
+<!-- Minimalist Working Badges -->
+<a href="https://github.com/harisatyapriya2006">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/uppalaguptam-hari-satya-priya">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:harisatyapriya2006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:CDE8F5,100:9FD8EF&height=3&section=header" width="100%" />
+---
 
 ## ☁️ About Me
 
