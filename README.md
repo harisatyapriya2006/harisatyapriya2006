@@ -1,87 +1,38 @@
 <div align="center">
 
-<!-- Clean Blue & Ice Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_title=HARI%20SATYA%20PRIYA%20UPPALAGUPTAM&height=220&section=header&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E6D5F7,50:B993D6,100:8E44AD&height=260&section=header&text=HARI%20SATYA%20PRIYA%20UPPALAGUPTAM&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cyber%20Security%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
 
 <br/>
 
-<!-- Floating Dynamic Typing Effect -->
-<a href="https://github.com/harisatyapriya2006">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1000&color=5FA8D3&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;Cybersecurity+Undergraduate;Turning+Ideas+Into+Interfaces" alt="Typing Animation" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=B993D6&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;Cybersecurity+Undergraduate;Building+Secure%2C+Scalable+Products" alt="Typing Animation" />
 
 <br/><br/>
 
-<!-- Minimalist Working Badges -->
-<a href="https://github.com/harisatyapriya2006">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+<a href="https://github.com/harisatyapriya2006" style="text-decoration:none;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D8B4E2,100:A569BD&height=42&width=140&section=header&text=GitHub&fontSize=15&fontColor=ffffff&fontAlignY=60" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/uppalaguptam-hari-satya-priya">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/uppalaguptam-hari-satya-priya" style="text-decoration:none;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D8B4E2,100:A569BD&height=42&width=140&section=header&text=LinkedIn&fontSize=15&fontColor=ffffff&fontAlignY=60" />
 </a>
 &nbsp;
-<a href="mailto:harisatyapriya2006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+<a href="mailto:harisatyapriya2006@gmail.com" style="text-decoration:none;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D8B4E2,100:A569BD&height=42&width=140&section=header&text=Email&fontSize=15&fontColor=ffffff&fontAlignY=60" />
 </a>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header" width="100%" />
 
-## ☁️ About Me
-
-I'm a Computer Science undergraduate specializing in **Cyber Security** and **Full-Stack Web Development** (MERN, Java). I love building real-time, responsive applications with a focus on **secure coding**, **network security**, and **frontend polish** — the kind of software that feels smooth, safe, and a little bit magical.
-
-- 🔭 Currently building agentic AI tools for real-world civic problems
-- 🛡️ Exploring the intersection of **cybersecurity** and **AI-driven applications**
-- ☕ Fueled by curiosity, clean UI, and the occasional 2 AM debugging session
-- 🌊 Believe good software should feel effortless — like it's floating
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:9FD8EF,100:CDE8F5&height=3&section=header" width="100%" />
-
-## 🌫️ Technical Skills
+## About Me
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="100%" style="background:linear-gradient(135deg,#EFE3F7,#D8B4E2); border-radius:16px; padding:20px;">
 
-### 💻 Languages
-Java · JavaScript<br/>HTML · CSS
-
-</td>
-<td align="center" width="33%">
-
-### 🎨 Frontend
-React.js<br/>Responsive Web Design
-
-</td>
-<td align="center" width="33%">
-
-### ⚙️ Backend
-Node.js · Express.js<br/>MongoDB
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-### 🧰 Tools
-Git · GitHub<br/>Vercel · Netlify
-
-</td>
-<td align="center" width="33%">
-
-### 🧩 Platforms
-ServiceNow<br/>(Admin & Developer)
-
-</td>
-<td align="center" width="33%">
-
-### 🧠 Core CS
-DSA · Networks<br/>OOP
+Computer Science undergraduate specializing in Cyber Security and Full Stack Web Development (MERN, Java). Hands-on experience building real-time, responsive applications with a focus on secure coding, network security, and frontend optimization. Seeking an entry-level software role to deliver secure, scalable, and user-centric web solutions.
 
 </td>
 </tr>
@@ -89,128 +40,205 @@ DSA · Networks<br/>OOP
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:CDE8F5,100:9FD8EF&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:C9A7EB,100:8E44AD&height=60&section=header" width="100%" />
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harisatyapriya2006&theme=cobalt&background=0D1B2A&ring=7EC8E3&fire=AEDFF7&currStreakNum=E8F4FB&border_radius=18&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=harisatyapriya2006&show_icons=true&theme=cobalt&bg_color=0D1B2A&title_color=7EC8E3&text_color=E8F4FB&icon_color=AEDFF7&border_radius=18&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harisatyapriya2006&theme=radical&background=1A0B2E&ring=C9A7EB&fire=B993D6&currStreakLabel=E6D5F7&sideNums=E6D5F7&sideLabels=E6D5F7&currStreakNum=ffffff&border_radius=16&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=harisatyapriya2006&show_icons=true&theme=radical&bg_color=1A0B2E&title_color=C9A7EB&text_color=E6D5F7&icon_color=B993D6&border_radius=16&hide_border=true" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harisatyapriya2006&theme=react-dark&bg_color=0D1B2A&color=7EC8E3&line=AEDFF7&point=E8F4FB&area=true&hide_border=true&border_radius=18" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisatyapriya2006&layout=compact&theme=radical&bg_color=1A0B2E&title_color=C9A7EB&text_color=E6D5F7&border_radius=16&hide_border=true" width="55%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:9FD8EF,100:CDE8F5&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:8E44AD,100:C9A7EB&height=60&section=header" width="100%" />
 
-## 💼 Work Experience
+## Technical Skillset
 
-<table width="100%">
-<tr><td>
-
-### 🩺 Frontend Web Developer & Content Writing Intern
-**Medmitra** · Healthcare Solutions Company · *Oct 2025 – Jan 2026 · Remote*
-- Built and optimized responsive user interfaces using HTML, CSS, and JavaScript, ensuring cross-browser compatibility.
-- Participated in team code reviews and applied modern web development practices to strengthen scalable application design.
-
-</td></tr>
-<tr><td>
-
-### 🔐 Cybersecurity Intern
-**Navodita Infotech** · *Sep 2025 – Nov 2025*
-- Performed network monitoring, vulnerability analysis, and penetration testing to strengthen system security.
-- Applied cybersecurity concepts and secure coding principles in real-time production environments.
-
-</td></tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:CDE8F5,100:9FD8EF&height=3&section=header" width="100%" />
-
-## 🚀 Featured Projects
+<div align="center">
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<th align="left" style="background:#8E44AD; color:white; padding:10px;">Category</th>
+<th align="left" style="background:#8E44AD; color:white; padding:10px;">Skillset</th>
+</tr>
+<tr>
+<td style="background:#F3E8FB; padding:10px;"><b>Languages</b></td>
+<td style="background:#F3E8FB; padding:10px;">Java, JavaScript, HTML, CSS</td>
+</tr>
+<tr>
+<td style="background:#EAD7F5; padding:10px;"><b>Frontend</b></td>
+<td style="background:#EAD7F5; padding:10px;">React.js, Responsive Web Design, Motion &amp; Interaction Design</td>
+</tr>
+<tr>
+<td style="background:#F3E8FB; padding:10px;"><b>Backend</b></td>
+<td style="background:#F3E8FB; padding:10px;">Node.js, Express.js, MongoDB, MERN Stack</td>
+</tr>
+<tr>
+<td style="background:#EAD7F5; padding:10px;"><b>Tools &amp; Platforms</b></td>
+<td style="background:#EAD7F5; padding:10px;">Git, GitHub, Vercel, Netlify, ServiceNow (Admin &amp; Developer)</td>
+</tr>
+<tr>
+<td style="background:#F3E8FB; padding:10px;"><b>Core CS</b></td>
+<td style="background:#F3E8FB; padding:10px;">Data Structures &amp; Algorithms, Computer Networks, OOP</td>
+</tr>
+<tr>
+<td style="background:#EAD7F5; padding:10px;"><b>Soft Skills</b></td>
+<td style="background:#EAD7F5; padding:10px;">Technical Communication, Problem-Solving, Teamwork</td>
+</tr>
+</table>
 
-### 🛰️ Smart Bandobast
-**Live Monitor Application**
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:C9A7EB,100:8E44AD&height=60&section=header" width="100%" />
+
+## Work Experience
+
+<div align="center">
+<table width="95%">
+<tr>
+<td style="background:linear-gradient(120deg,#EFE3F7,#D8B4E2); border-radius:14px; padding:18px;">
+
+**Frontend Web Developer & Content Writing Intern** — Medmitra (Healthcare Solutions Company)
+*Oct 2025 – Jan 2026 | Remote*
+
+Built and optimized responsive user interfaces using HTML, CSS, and JavaScript, ensuring cross-browser compatibility. Participated in team code reviews and applied modern web development practices to strengthen scalable application design.
+
+</td>
+</tr>
+<tr><td height="14"></td></tr>
+<tr>
+<td style="background:linear-gradient(120deg,#D8B4E2,#EFE3F7); border-radius:14px; padding:18px;">
+
+**Cybersecurity Intern** — Navodita Infotech
+*Sep 2025 – Nov 2025*
+
+Performed network monitoring, vulnerability analysis, and penetration testing to strengthen system security. Applied cybersecurity concepts and secure coding principles in real-time production environments.
+
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:8E44AD,100:C9A7EB&height=60&section=header" width="100%" />
+
+## Featured Projects
+
+<div align="center">
+
+<table width="95%">
+<tr>
+<td style="background:#F3E8FB; border-radius:14px; padding:18px;">
+
+### Smart Bandobast — Live Monitor Application
 `React.js` `Node.js` `Express.js` `PostgreSQL` `PostGIS`
 
-Real-time management system to monitor field staff and keep them within assigned zones — with GPS and geofencing for faster emergency response and operational safety.
-
-</td>
-<td width="50%" valign="top">
-
-### 🗣️ Scheme Saathi
-**Multilingual AI Welfare Platform**
-`Flutter` `Dart` `Agentic AI` `Speech-to-Text`
-
-Voice-first mobile app powered by Agentic AI that helps citizens discover eligible government welfare schemes, with automated eligibility checks and guided applications.
+Developed a real-time management system to monitor field staff and ensure they remain within assigned zones. Incorporated GPS and geofencing concepts to support operational safety, coordination, and faster emergency response.
 
 </td>
 </tr>
+<tr><td height="14"></td></tr>
 <tr>
-<td width="50%" valign="top">
+<td style="background:#EAD7F5; border-radius:14px; padding:18px;">
 
-### 🎪 EventSphere
-**AI-Powered Event Management Platform**
-`React.js` `Node.js` `MongoDB`
+### Scheme Saathi — Multilingual AI Welfare Platform
+`Flutter` `Dart` `Agentic AI` `Speech-to-Text` `Location APIs`
 
-Full event management platform for creating, discovering, and managing events — complete with an AI smart planner, skill exchange, and live event modules.
+Built a voice-first mobile app using Agentic AI to help citizens find eligible government welfare schemes. Automated multi-step workflows for eligibility verification, document checklists, and application guidance. Integrated GPS location services to guide users to nearby government service centers.
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr><td height="14"></td></tr>
+<tr>
+<td style="background:#F3E8FB; border-radius:14px; padding:18px;">
 
-### ✨ More coming soon
-Currently prototyping new ideas at the intersection of **AI agents** and **security tooling**. Check back for updates!
+### EventSphere — AI-Powered Event Management Platform
+`React.js` `Node.js` `MongoDB`
+
+Developed a React.js-based event management platform for creating, discovering, and managing events with a modern responsive UI. Integrated an AI smart planner, skill exchange, live events, and user profile modules to enhance user experience.
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:9FD8EF,100:CDE8F5&height=3&section=header" width="100%" />
+</div>
 
-## 🎓 Education
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:C9A7EB,100:8E44AD&height=60&section=header" width="100%" />
+
+## Education
 
 <div align="center">
 
 | Qualification | Institution | Timeline | Score |
-| :--- | :--- | :---: | :---: |
-| **B.Tech, CSE (Cyber Security)** | Ramachandra College of Engineering (A), Eluru | 2023 – 2027 | **CGPA: 8.6** |
-| **Intermediate (MPC)** | Sri Chaitanya Junior College, Eluru | 2021 – 2023 | **92%** |
-| **Secondary School Certificate** | Dr. K.K.R.'s Gowtham School, Eluru | 2020 – 2021 | **99%** |
+| :--- | :--- | :--- | :--- |
+| **B.Tech in CSE (Cyber Security)** | Ramachandra College of Engineering(A), Eluru | 2023 – 2027 | CGPA: 8.6 |
+| **Intermediate (MPC)** | Sri Chaitanya Junior College, Eluru | 2021 – 2023 | 89% |
+| **Secondary School Certificate (SSC)** | Dr. K.K.R.'s Gowtham School, Eluru | 2020 – 2021 | 99% |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:CDE8F5,100:9FD8EF&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:8E44AD,100:C9A7EB&height=60&section=header" width="100%" />
 
-## 📜 Certifications
+## Certifications
 
-- 🏅 **ServiceNow Certified System Administrator (CSA)** — *June 2026*
-- 🏅 **Certified Application Developer (CAD)** — *July 2026*
-- 🛡️ **Ethical Hacking Course** — ResilientShield Cyber Solutions, *2025*
-- 💻 **Full Stack Development Workshop** — Innomatics Research Labs, *2025*
+<div align="center">
+<table width="90%">
+<tr>
+<td style="background:#EAD7F5; border-radius:12px; padding:14px;">ServiceNow Certified System Administrator (CSA) — June 2026</td>
+</tr>
+<tr><td height="8"></td></tr>
+<tr>
+<td style="background:#F3E8FB; border-radius:12px; padding:14px;">Certified Application Developer (CAD) — July 2026</td>
+</tr>
+<tr><td height="8"></td></tr>
+<tr>
+<td style="background:#EAD7F5; border-radius:12px; padding:14px;">Ethical Hacking Course — ResilientShield Cyber Solutions, 2025</td>
+</tr>
+<tr><td height="8"></td></tr>
+<tr>
+<td style="background:#F3E8FB; border-radius:12px; padding:14px;">Full Stack Development Workshop — Innomatics Research Labs, 2025</td>
+</tr>
+</table>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:9FD8EF,100:CDE8F5&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:C9A7EB,100:8E44AD&height=60&section=header" width="100%" />
 
-## 🏆 Achievements & Awards
+## Achievements & Awards
 
-- 🥇 **1st Prize** — Project Expo, Amrutha Sai Institute of Technology, Vijayawada
-- 🥈 **2nd Prize** — AI Hackathon, organized by Anantapur Police (State Government Initiative)
-- 🏃 **Runner-up** — Kho-Kho, Ramachandra College of Engineering
-- 🤝 **Participant** — Smart India Hackathon 2023 & MINDSprint National Hackathon 2025
+<div align="center">
+<table width="90%">
+<tr><td style="background:#EAD7F5; border-radius:12px; padding:14px;">1st Prize — Project Expo, Amrutha Sai Institute of Technology, Vijayawada</td></tr>
+<tr><td height="8"></td></tr>
+<tr><td style="background:#F3E8FB; border-radius:12px; padding:14px;">2nd Prize — AI Hackathon, organized by Anantapur Police (State Government Initiative)</td></tr>
+<tr><td height="8"></td></tr>
+<tr><td style="background:#EAD7F5; border-radius:12px; padding:14px;">Runner-up — Kho-Kho, Ramachandra College of Engineering</td></tr>
+<tr><td height="8"></td></tr>
+<tr><td style="background:#F3E8FB; border-radius:12px; padding:14px;">Participant — Smart India Hackathon 2023 and MINDSprint National Hackathon 2025</td></tr>
+</table>
+</div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:8E44AD,100:C9A7EB&height=60&section=header" width="100%" />
+
+## Currently Exploring
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&duration=3000&pause=1200&color=7EC8E3&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by+%F0%9F%92%99;Let's+build+something+great+together" />
+<table width="90%">
+<tr>
+<td style="background:linear-gradient(135deg,#EFE3F7,#C9A7EB); border-radius:14px; padding:18px;">
 
-<br/><br/>
+Deepening knowledge in cloud security architecture, applied AI agents for real-world workflows, and advanced React performance patterns — while continuing to build products that are secure by design.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7EC8E3,50:AEDFF7,100:E8F4FB&height=150&section=footer" width="100%" />
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6D5F7,50:B993D6,100:8E44AD&height=200&section=footer&text=Thanks%20for%20visiting&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=75" width="100%" />
 
 </div>
