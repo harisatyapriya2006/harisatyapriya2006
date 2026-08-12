@@ -1,174 +1,156 @@
 <div align="center">
 
-<!-- Soft Nude / Pastel Waving Header Banner matching your layout reference -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=dcd0c0&custom_title=🌸%20Hari%20Satya%20Priya%20Uppalaguptam%20🌸&height=220&section=header&text=Aspiring%20Software%20Developer%20|%20Full%20Stack%20Developer&fontSize=24&fontColor=5b4b49&animation=fadeIn&fontAlignY=38" width="100%" />
+<!-- Clean Animated Header with Gradient & Subtle Sparkle Effect -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_title=Uppalaguptam%20Hari%20Satya%20Priya&height=220&section=header&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 
 <br/>
 
-<!-- Anime Aesthetic GIF & Floating Elements -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYxdXRhOTR3Z3pldXFweG1uandxcXk4OHpsZjB4eXVsOHpsZnB6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svv1ZUyOYI/giphy.gif" width="150px" alt="Anime Floating Aesthetic" />
+<!-- Floating Dynamic Typing Effect -->
+<a href="https://github.com/harisatyapriya2006">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6B46C1&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Full+Stack+Web+Developer;Cybersecurity+Enthusiast;Building+Secure+%26+Scalable+Web+Solutions" alt="Typing Animation" />
+</a>
 
-### ✨ `Welcome to my virtual digital space!` ✨
+<br/><br/>
 
-<!-- Custom Pastel / Nude Badges matching image styling -->
-[![](https://img.shields.io/badge/GITHUB-harisatyapriya2006-D0E1D4?style=for-the-badge&logo=github&logoColor=3D5240)](https://github.com/harisatyapriya2006)
-[![](https://img.shields.io/badge/LINKEDIN-CONNECT-E8D5C4?style=for-the-badge&logo=linkedin&logoColor=5B4B49)](https://linkedin.com/in/uppalaguptam-hari-satya-priya)
-[![](https://img.shields.io/badge/GMAIL-CONTACT-FAD2E1?style=for-the-badge&logo=gmail&logoColor=723D46)](mailto:harisatyapriya2006@gmail.com)
+<!-- Professional Minimalist Badges -->
+[![](https://img.shields.io/badge/GitHub-harisatyapriya2006-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harisatyapriya2006)
+[![](https://img.shields.io/badge/LinkedIn-Hari%20Satya%20Priya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uppalaguptam-hari-satya-priya)
+[![](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harisatyapriya2006@gmail.com)
 
 </div>
 
 ---
 
-## 🧠 About Me
-
-* 🎓 **Education:** Pursuing B.Tech in Cyber Security at Ramachandra College of Engineering (Autonomous)
-* 💻 **Role:** Aspiring Software Developer / Full Stack Developer with a strong foundation in Java, JavaScript, and React.js
-* 🛠️ **Experience:** Built user-focused web applications through projects and hackathons
-* 🚀 **Internship:** Completed a Full Stack Web Development internship
-* 🗄️ **Tech Foundations:** Familiar with databases, version control, and modern web technologies
-* 🌱 **Passions:** Enjoy building practical applications that solve real-world problems
-* 🎯 **Goal:** Actively working toward opportunities in Full Stack Development
-
----
-
-## 💻 Tech Stack
+## GitHub Activity & Live Analytics
 
 <div align="center">
 
-| Category | Technologies |
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophies.vercel.app/?username=harisatyapriya2006&theme=flat&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=false" width="98%" alt="GitHub Trophies" />
+
+<br/><br/>
+
+<!-- Streak & General Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harisatyapriya2006&theme=react&background=0d1117&ring=58a6ff&fire=bc8cff&currStreakNum=c9d1d9&border_radius=10&hide_border=false" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harisatyapriya2006&show_icons=true&theme=react&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=bc8cff&border_radius=10&hide_border=false" width="49%" />
+</p>
+
+<!-- Top Languages & Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisatyapriya2006&layout=compact&theme=react&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harisatyapriya2006&theme=react-dark&bg_color=0d1117&color=58a6ff&line=bc8cff&point=ffffff&hide_border=true" width="49%" />
+</p>
+
+<!-- Contribution Snake Map -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harisatyapriya2006/harisatyapriya2006/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harisatyapriya2006/harisatyapriya2006/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake" src="https://raw.githubusercontent.com/harisatyapriya2006/harisatyapriya2006/output/github-contribution-grid-snake.svg" width="98%">
+</picture>
+
+</div>
+
+---
+
+## About Me
+
+* **Education:** Pursuing B.Tech in Cyber Security at Ramachandra College of Engineering (Autonomous)[cite: 1]
+* **Role:** Aspiring Software Developer / Full Stack Developer with expertise in Java, JavaScript, and React.js[cite: 1]
+* **Focus:** Developing secure, scalable, and responsive web applications[cite: 1]
+* **Experience:** Completed Full Stack Web Development and Cybersecurity internships[cite: 1]
+* **Technical Interests:** Full-stack architecture, spatial location services, and network security[cite: 1]
+
+---
+
+## Technical Skills
+
+<div align="center">
+
+| Category | Skillset |
 | :--- | :--- |
-| **🔤 Languages** | `Java` `JavaScript` `HTML5` `CSS3` `Dart` |
-| **🎨 Frontend** | `React.js` `Flutter` `Tailwind CSS` `Responsive Web Design` |
-| **⚙️ Backend** | `Node.js` `Express.js` |
-| **🗄️ Databases** | `MongoDB` `PostgreSQL` |
-| **🧰 Tools & Platforms** | `Git` `GitHub` `Vercel` `Netlify` `PostGIS` `ServiceNow` |
-| **📍 Other Concepts** | `Data Structures & Algorithms` `Computer Networks` `OOP` `Penetration Testing` |
+| **Languages** | `Java` `JavaScript` `HTML5` `CSS3` `Dart`[cite: 1] |
+| **Frontend** | `React.js` `Flutter` `Tailwind CSS` `Responsive Web Design`[cite: 1] |
+| **Backend & Databases** | `Node.js` `Express.js` `MongoDB` `PostgreSQL`[cite: 1] |
+| **Cybersecurity** | `Network Monitoring` `Vulnerability Analysis` `Penetration Testing`[cite: 1] |
+| **Tools & Platforms** | `Git` `GitHub` `Vercel` `Netlify` `PostGIS` `ServiceNow`[cite: 1] |
+| **Core Concepts** | `Data Structures & Algorithms` `Computer Networks` `OOP`[cite: 1] |
 
 <br/>
 
-<!-- Floating Soft Icons -->
+<!-- Tech Stack Icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,postgres,flutter,html,css,git,github,vercel&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,postgres,flutter,html,css,git,github,vercel,tailwind,postman&theme=dark" />
 </p>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🛰️ **Smart Bandobast** — *Live Monitor Application*
-> `React.js` `Node.js` `Express.js` `PostgreSQL` `PostGIS`
+### Smart Bandobast — Live Monitor Application
+> **Stack:** `React.js` `Node.js` `Express.js` `PostgreSQL` `PostGIS`[cite: 1]
 
-A real-time management system built to monitor field staff and ensure they remain within assigned zones.
-* **Problem:** Coordinating field staff across large areas is difficult, slowing emergency response.
-* **Application:** Live location monitoring platform for field teams.
-* **Approach:** GPS + Geofencing with PostGIS spatial data, PostgreSQL backend, React.js/Node.js/Express.js stack.
-* **Value:** Improves operational safety, coordination, and emergency response time.
-
----
-
-### 🎪 **EventSphere** — *AI-Powered Event Management Platform*
-> `React.js` `JavaScript` `Node.js` `Express.js` `MongoDB`
-
-A responsive full-stack event management platform bringing planning and discovery together.
-* **Core Features:** AI Smart Planner, Skill Exchange, Live Events, User Profile.
-* **Approach:** Responsive React.js frontend, Node.js/Express.js backend, MongoDB database — full-stack structure with feature-driven, user-focused design.
+* **Overview:** Built a real-time management system to monitor field staff and ensure adherence to assigned zones[cite: 1].
+* **Problem:** Coordinating personnel across vast areas slows down emergency response times[cite: 1].
+* **Approach:** Integrated GPS and geofencing using PostGIS spatial data on a PostgreSQL backend paired with a React.js interface[cite: 1].
+* **Impact:** Improved operational coordination and emergency response efficiency[cite: 1].
 
 ---
 
-### 📍 **Near Vendor** — *Local Vendor Application*
-> `React.js` `Node.js` `Express.js` `MongoDB`
+### EventSphere — AI-Powered Event Management Platform
+> **Stack:** `React.js` `JavaScript` `Node.js` `Express.js` `MongoDB`[cite: 1]
 
-A real-time web application connecting nearby customers with local street vendors through location-based services.
-* **Problem:** Customers struggle to discover nearby local vendors easily.
-* **Application:** Location-based platform for nearby vendor discovery.
-* **Approach:** React.js + Node.js/Express.js + MongoDB, with real-time location-based discovery.
-* **Value:** Connects local goods and services with nearby customers through a user-friendly interface.
+* **Overview:** Responsive full-stack platform unifying event discovery and interactive smart planning[cite: 1].
+* **Features:** Integrated AI smart planner, skill exchange module, live event tracking, and customizable user profiles[cite: 1].
 
 ---
 
-## 💼 Internship Experience
+### Near Vendor — Local Vendor Application
+> **Stack:** `React.js` `Node.js` `Express.js` `MongoDB`
 
-* **Full Stack Web Development Intern** @ **CODTECH IT SOLUTIONS PRIVATE LIMITED** 📅 *(September 2025 – November 2025)*
-  * Successfully completed a 6-week online internship program in Full Stack Web Development from September 26, 2025 to November 11, 2025.
-
-* **Frontend Web Developer & Content Writing Intern** @ **Medmitra** 📅 *(October 2025 – January 2026)*
-  * Built and optimized responsive user interfaces using HTML, CSS, and JavaScript.
-
-* **Cybersecurity Intern** @ **Navodita Infotech** 📅 *(September 2025 – November 2025)*
-  * Performed network monitoring, vulnerability analysis, and penetration testing.
+* **Overview:** Location-based web application connecting customers with local street vendors in real time.
+* **Impact:** Promotes local commerce through accessible location discovery features.
 
 ---
 
-## 🎓 Education
+## Experience
 
-| Qualification | Institution | Duration | Score |
+* **Full Stack Web Development Intern** — **CODTECH IT SOLUTIONS PRIVATE LIMITED** *(Sep 2025 – Nov 2025)*
+  * Completed intensive program focused on full-stack web architectures and scalable development practices.
+
+* **Frontend Web Developer Intern** — **Medmitra** *(Oct 2025 – Jan 2026)*[cite: 1]
+  * Developed and optimized responsive user interfaces ensuring cross-browser compatibility[cite: 1].
+
+* **Cybersecurity Intern** — **Navodita Infotech** *(Sep 2025 – Nov 2025)*[cite: 1]
+  * Conducted network monitoring, vulnerability assessments, and penetration testing in production environments[cite: 1].
+
+---
+
+## Education
+
+| Degree | Institution | Timeline | Performance |
 | :--- | :--- | :--- | :--- |
-| **🎓 B.Tech – Cyber Security** | Ramachandra College of Engineering (Autonomous) | 2023 – Present (Expected 2027) | **85%** |
-| **📘 Intermediate (12th)** | Sri Chaitanya Junior College, Eluru | 2021 – 2023 | **91.4%** |
-| **📗 SSC (10th)** | Geetanjali High School, Veeravalli | 2020 – 2021 | **99.5%** |
+| **B.Tech – Cyber Security** | Ramachandra College of Engineering (Autonomous)[cite: 1] | 2023 – Present (Expected 2027)[cite: 1] | **85%** |
+| **Intermediate (MPC)** | Sri Chaitanya Junior College, Eluru[cite: 1] | 2021 – 2023[cite: 1] | **91.4%** |
+| **SSC** | Geetanjali High School, Veeravalli | 2020 – 2021 | **99.5%** |
 
 ---
 
-## 🏆 Certifications
+## Certifications & Achievements
 
-* 🟢 **ServiceNow Certified System Administrator (CSA)**
-* 🟢 **ServiceNow Certified Application Developer (CAD)**
-* 🟢 **ServiceNow Certified Implementation Specialist – Data Foundations (CMDB and CSDM) (CIS-DF)**
-* 🟢 **AI Fundamentals** – IBM
-* 🟢 **Java & Python** – Udemy
-* 🟢 **HTML, CSS & JavaScript** – Udemy
-* 🟢 **C Programming Certification**
-
----
-
-## 🏅 Hackathons & Achievements
-
-* 🥈 **2nd Place** – AI Anantapur Police Hackathon
-* 🏆 **Winner** – Amrita Sai College Tech Fest
-* 🤝 **Smart India Hackathon** – Participant
-* 🤝 **PSCMR Hackathon** – Participant
-* 🥈 **2nd Place in Academics**
-* 🏐 **Winner** – Throw Ball
-* 🥈 **Runner-up** – Kho-Kho
+* **ServiceNow Certified System Administrator (CSA)**[cite: 1]
+* **ServiceNow Certified Application Developer (CAD)**[cite: 1]
+* **ServiceNow Certified Implementation Specialist – Data Foundations (CIS-DF)**
+* **2nd Place** — AI Anantapur Police Hackathon[cite: 1]
+* **Winner** — Amrita Sai College Tech Fest[cite: 1]
+* **Participant** — Smart India Hackathon & MINDSprint National Hackathon[cite: 1]
 
 ---
-
-## 🌱 Currently Learning
-
-* Advanced Data Structures & Algorithms in Java
-* Advanced System Architecture & Scalable Web Systems
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harisatyapriya2006&show_icons=true&theme=rose_pine&bg_color=FAF4ED&title_color=907AA9&text_color=575279&icon_color=EA9D34&border_radius=15&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harisatyapriya2006&theme=rose_pine&background=FAF4ED&ring=907AA9&fire=EA9D34&currStreakNum=575279&border_radius=15&hide_border=true" width="48%" />
-</p>
-
-</div>
-
----
-
-## 🤝 Open To
-
-`Full Stack Roles` `Software Engineering Internships` `Open Source Collaboration` `Hackathons`
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-`Cyber Security student` ➔ `Full Stack Web Development intern` ➔ `Practical project builder` ➔ `Hackathon participant` ➔ `Aspiring Full Stack Developer`
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=dcd0c0&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 
 </div>
