@@ -1,111 +1,196 @@
-<h1 align="center">Hi 👋, I'm Hari Satya Priya Uppalaguptam</h1>
-<h3 align="center">Aspiring Software Engineer | Full-Stack Web Development | Cyber Security</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/uppalaguptam-hari-satya-priya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:harisatyapriya2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/harisatyapriya2006" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8EDEB,50:E8C4C4,100:D4A5A5&height=220&section=header&text=Hari%20Satya%20Priya&fontSize=45&fontColor=5C4033&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20%26%20Cyber%20Security&descAlignY=58&descSize=18" width="100%"/>
 
----
+<br/>
 
-### 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=800&color=A9746E&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+(MERN);Cyber+Security+Enthusiast;Building+Secure+%26+Scalable+Web+Apps;Always+Learning%2C+Always+Building" alt="Typing SVG"/>
 
-- 🎓 B.Tech in Computer Science and Engineering (Cyber Security), Ramachandra College of Engineering(A), Eluru — CGPA **8.6**
-- 🔐 Specializing in **Cyber Security** and **Full Stack Web Development (MERN, Java)**
-- 🛠️ Hands-on experience building real-time, responsive applications with a focus on secure coding, network security, and frontend optimization
-- 💼 Currently seeking an **entry-level software role** to deliver secure, scalable, and user-centric web solutions
-- 📫 Reach me at **harisatyapriya2006@gmail.com**
+<br/><br/>
 
----
+<a href="mailto:harisatyapriya2006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-F8EDEB?style=for-the-badge&logo=gmail&logoColor=A9746E" />
+</a>
+<a href="https://linkedin.com/in/uppalaguptam-hari-satya-priya">
+  <img src="https://img.shields.io/badge/LinkedIn-EAC7C7?style=for-the-badge&logo=linkedin&logoColor=5C4033" />
+</a>
+<a href="https://github.com/harisatyapriya2006">
+  <img src="https://img.shields.io/badge/GitHub-D4A5A5?style=for-the-badge&logo=github&logoColor=FFF8F0" />
+</a>
 
-### 🧑‍💻 Work Experience
+</div>
 
-**Frontend Web Developer & Content Writing Intern** — *Medmitra (Healthcare Solutions Company)* — Remote  
-`Oct 2025 – Jan 2026`
-- Built and optimized responsive user interfaces using HTML, CSS, and JavaScript, ensuring cross-browser compatibility
-- Participated in team code reviews and applied modern web development practices to strengthen scalable application design
+<br/>
 
-**Cybersecurity Intern** — *Navodita Infotech*  
-`Sep 2025 – Nov 2025`
-- Performed network monitoring, vulnerability analysis, and penetration testing to strengthen system security
-- Applied cybersecurity concepts and secure coding principles in real-time production environments
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=D4A5A5&height=2&section=header" width="100%"/>
 
----
+## 🌸 About Me
 
-### 🛠️ Featured Projects
+```yaml
+name: "Hari Satya Priya Uppalaguptam"
+role: "Computer Science Undergraduate — Cyber Security"
+college: "Ramachandra College of Engineering(A), Eluru"
+cgpa: "8.6"
+focus: ["MERN Stack", "Java", "Network Security", "Secure Coding"]
+currently: "Seeking an entry-level Software Engineering role"
+fun_fact: "I turn ideas into secure, scalable, user-centric web apps 🚀"
+```
 
-#### 🔹 [Smart Bandobast – Live Monitor Application](https://github.com/harisatyapriya2006)
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F1DEDE,100:E8C4C4&height=90&section=header&text=Education&fontSize=32&fontColor=5C4033&animation=fadeIn" width="90%"/>
+</div>
+
+| 🎓 Institution | Degree | Duration | Score |
+|---|---|---|---|
+| Ramachandra College of Engineering(A), Eluru | B.Tech CSE (Cyber Security) | 2023 – 2027 | **CGPA 8.6** |
+| Sri Chaitanya Junior College, Eluru | Intermediate (MPC) | 2021 – 2023 | **89%** |
+| Dr. K.K.R.'s Gowtham School, Eluru | SSC | 2020 – 2021 | **99%** |
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F1DEDE,100:E8C4C4&height=90&section=header&text=Experience&fontSize=32&fontColor=5C4033&animation=fadeIn" width="90%"/>
+</div>
+
+### 💻 Frontend Web Developer & Content Writing Intern
+**Medmitra (Healthcare Solutions Company)** · Remote · *Oct 2025 – Jan 2026*
+- Built and optimized responsive UIs with HTML, CSS & JavaScript ensuring cross-browser compatibility
+- Participated in code reviews, applying modern scalable web development practices
+
+### 🔐 Cybersecurity Intern
+**Navodita Infotech** · *Sep 2025 – Nov 2025*
+- Performed network monitoring, vulnerability analysis & penetration testing
+- Applied secure coding principles in real-time production environments
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F1DEDE,100:E8C4C4&height=90&section=header&text=Projects&fontSize=32&fontColor=5C4033&animation=fadeIn" width="90%"/>
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ Smart Bandobast
+**Live Field-Staff Monitoring System**
+
+Real-time GPS & geofencing platform to track field staff, boost operational safety and speed up emergency response.
+
 `React.js` `Node.js` `Express.js` `PostgreSQL` `PostGIS`
-- Real-time management system to monitor field staff and ensure they remain within assigned zones
-- Incorporated GPS and geofencing to support operational safety, coordination, and faster emergency response
 
-#### 🔹 [Scheme Saathi – Multilingual AI Welfare Platform](https://github.com/harisatyapriya2006)
+</td>
+<td width="50%" valign="top">
+
+### 🗣️ Scheme Saathi
+**Multilingual AI Welfare Platform**
+
+Voice-first mobile app using Agentic AI to help citizens discover welfare schemes, verify eligibility & navigate paperwork.
+
 `Flutter` `Dart` `Agentic AI` `Speech-to-Text` `Location APIs`
-- Voice-first mobile app using Agentic AI to help citizens find eligible government welfare schemes
-- Automated multi-step workflows for eligibility verification, document checklists, and application guidance
-- Integrated GPS location services to guide users to nearby government service centers
 
-#### 🔹 [EventSphere – AI-Powered Event Management Platform](https://github.com/harisatyapriya2006)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎉 EventSphere
+**AI-Powered Event Management Platform**
+
+Full-stack event platform with an AI smart planner, skill exchange, live events & profile modules for a rich UX.
+
 `React.js` `Node.js` `MongoDB`
-- React.js-based platform for creating, discovering, and managing events with a modern responsive UI
-- Integrated an AI smart planner, skill exchange, live events, and user profile modules
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🧰 Tech Stack
+<br/>
+<div align="center">
+<i>More builds always brewing ☕<br/>Check my pinned repos below 👇</i>
+</div>
 
-**Languages**  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+</td>
+</tr>
+</table>
 
-**Frontend & Backend**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<br/>
 
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/-ServiceNow-00A3E0?style=flat-square&logo=servicenow&logoColor=white)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F1DEDE,100:E8C4C4&height=90&section=header&text=Tech%20Stack&fontSize=32&fontColor=5C4033&animation=fadeIn" width="90%"/>
+</div>
 
-**Core CS**  
-Data Structures & Algorithms · Computer Networks · Object-Oriented Programming (OOP)
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,mongodb,postgresql,git,github,vercel,figma&theme=light" />
 
-### 📜 Certifications
+</div>
 
-- 🏅 ServiceNow Certified System Administrator (CSA) — June 2026
-- 🏅 Certified Application Developer (CAD) — July 2026
-- 🏅 Ethical Hacking Course — ResilientShield Cyber Solutions (2025)
-- 🏅 Full Stack Development Workshop — Innomatics Research Labs (2025)
+<br/>
 
----
+<table align="center">
+<tr><td><b>Languages</b></td><td>Java, JavaScript, HTML, CSS</td></tr>
+<tr><td><b>Frontend</b></td><td>React.js, Responsive Web Design</td></tr>
+<tr><td><b>Backend</b></td><td>MERN Stack</td></tr>
+<tr><td><b>Tools & Platforms</b></td><td>Git, GitHub, Vercel, Netlify, ServiceNow</td></tr>
+<tr><td><b>Core CS</b></td><td>DSA, Computer Networks, OOP</td></tr>
+<tr><td><b>Soft Skills</b></td><td>Technical Communication, Problem-Solving, Teamwork</td></tr>
+</table>
 
-### 🏆 Achievements & Awards
+<br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F1DEDE,100:E8C4C4&height=90&section=header&text=GitHub%20Stats&fontSize=32&fontColor=5C4033&animation=fadeIn" width="90%"/>
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=harisatyapriya2006&show_icons=true&hide_border=true&title_color=A9746E&text_color=5C4033&icon_color=D4A5A5&bg_color=FDF6F0&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harisatyapriya2006&hide_border=true&background=FDF6F0&stroke=D4A5A5&ring=D4A5A5&fire=E8A6A6&currStreakLabel=A9746E&sideLabels=5C4033&dates=A9746E&currStreakNum=5C4033&sideNums=5C4033" width="48%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisatyapriya2006&layout=compact&hide_border=true&title_color=A9746E&text_color=5C4033&bg_color=FDF6F0" width="48%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F1DEDE,100:E8C4C4&height=90&section=header&text=Certifications%20%26%20Awards&fontSize=28&fontColor=5C4033&animation=fadeIn" width="90%"/>
+</div>
+
+**🏅 Certifications**
+- ServiceNow Certified System Administrator (CSA) — June 2026
+- Certified Application Developer (CAD) — July 2026
+- Ethical Hacking Course — ResilientShield Cyber Solutions (2025)
+- Full Stack Development Workshop — Innomatics Research Labs (2025)
+
+**🏆 Achievements**
 - 🥇 1st Prize — Project Expo, Amrutha Sai Institute of Technology, Vijayawada
-- 🥈 2nd Prize — AI Hackathon, organized by Anantapur Police (State Government Initiative)
-- 🏅 Runner-up — Kho-Kho, Ramachandra College of Engineering
-- 🎖️ Participant — Smart India Hackathon 2023 & MINDSprint National Hackathon 2025
+- 🥈 2nd Prize — AI Hackathon, Anantapur Police (State Government Initiative)
+- 🥈 Runner-up — Kho-Kho, Ramachandra College of Engineering
+- 🎯 Participant — Smart India Hackathon 2023 & MINDSprint National Hackathon 2025
 
----
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harisatyapriya2006&label=Profile%20views&color=0e75b6&style=flat" alt="harisatyapriya2006" />
-</p>
+<div align="center">
 
-<p align="center"><i>Thanks for stopping by — let's connect and build something great! 🚀</i></p>
+### 📫 Let's Connect
+
+<a href="mailto:harisatyapriya2006@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-F8EDEB?style=for-the-badge&logo=gmail&logoColor=A9746E"/></a>
+<a href="https://linkedin.com/in/uppalaguptam-hari-satya-priya"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-EAC7C7?style=for-the-badge&logo=linkedin&logoColor=5C4033"/></a>
+<a href="https://github.com/harisatyapriya2006"><img src="https://img.shields.io/badge/-Follow%20on%20GitHub-D4A5A5?style=for-the-badge&logo=github&logoColor=FFF8F0"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=harisatyapriya2006&label=Profile%20Views&color=D4A5A5&style=for-the-badge" />
+
+<br/><br/>
+
+<i>"Secure code today, scalable solutions tomorrow."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4A5A5,50:E8C4C4,100:F8EDEB&height=120&section=footer" width="100%"/>
+
+</div>
