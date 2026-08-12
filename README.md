@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=260&section=header&text=HARI%20SATYA%20PRIYA%20UPPALAGUPTAM&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cyber%20Security%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;Cybersecurity+Undergraduate;Building+Secure%2C+Scalable+Products" alt="Typing Animation" />
-
-<br/><br/>
-
+  <br/><br/>
   <a href="https://github.com/harisatyapriya2006" style="text-decoration:none;">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=42&width=140&section=header&text=GitHub&fontSize=15&fontColor=ffffff&fontAlignY=60" />
   </a>
@@ -18,31 +16,34 @@
   </a>
 </div>
 
-About Me
+<br/>
+
+## 👤 About Me
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td width="100%" style="background:#FFFFFF; border:2px solid #000000; border-radius:16px; padding:20px;">
-
+      <td width="100%" style="background:#FFFFFF; color:#000000; border:2px solid #000000; border-radius:16px; padding:20px;">
 Computer Science undergraduate specializing in Cyber Security and Full Stack Web Development (MERN, Java). Hands-on experience building real-time, responsive applications with a focus on secure coding, network security, and frontend optimization. Seeking an entry-level software role to deliver secure, scalable, and user-centric web solutions.
-
-  </td>
-</tr>
-
+      </td>
+    </tr>
   </table>
 </div>
 
-GitHub Analytics
+<br/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harisatyapriya2006&theme=dark&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&border_radius=16&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=harisatyapriya2006&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_radius=16&hide_border=true" width="48%" />
-  <br/>
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisatyapriya2006&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_radius=16&hide_border=true" width="55%" />
 </div>
 
-Technical Skillset
+<br/>
+
+## 🛠️ Technical Skillset
 
 <div align="center">
   <table width="100%">
@@ -77,115 +78,98 @@ Technical Skillset
   </table>
 </div>
 
-Work Experience
+<br/>
+
+## 💼 Work Experience
 
 <div align="center">
   <table width="95%">
     <tr>
       <td style="background:#FFFFFF; color:#000000; border:2px solid #000000; border-radius:14px; padding:18px;">
-
-Frontend Web Developer & Content Writing Intern — Medmitra (Healthcare Solutions Company) Oct 2025 – Jan 2026 | Remote
-
-Built and optimized responsive user interfaces using HTML, CSS, and JavaScript, ensuring cross-browser compatibility. Participated in team code reviews and applied modern web development practices to strengthen scalable application design.
-
-  </td>
-</tr>
-<tr><td height="14"></td></tr>
-<tr>
-  <td style="background:#F2F2F2; color:#000000; border:2px solid #000000; border-radius:14px; padding:18px;">
-
-Cybersecurity Intern — Navodita Infotech Sep 2025 – Nov 2025
-
-Performed network monitoring, vulnerability analysis, and penetration testing to strengthen system security. Applied cybersecurity concepts and secure coding principles in real-time production environments.
-
-  </td>
-</tr>
-
+        <b>Frontend Web Developer & Content Writing Intern</b> — <i>Medmitra (Healthcare Solutions Company)</i><br/>
+        <small>Oct 2025 – Jan 2026 | Remote</small><br/><br/>
+        Built and optimized responsive user interfaces using HTML, CSS, and JavaScript, ensuring cross-browser compatibility. Participated in team code reviews and applied modern web development practices to strengthen scalable application design.
+      </td>
+    </tr>
+    <tr><td height="14"></td></tr>
+    <tr>
+      <td style="background:#F2F2F2; color:#000000; border:2px solid #000000; border-radius:14px; padding:18px;">
+        <b>Cybersecurity Intern</b> — <i>Navodita Infotech</i><br/>
+        <small>Sep 2025 – Nov 2025</small><br/><br/>
+        Performed network monitoring, vulnerability analysis, and penetration testing to strengthen system security. Applied cybersecurity concepts and secure coding principles in real-time production environments.
+      </td>
+    </tr>
   </table>
 </div>
 
-Featured Projects
+<br/>
+
+## 🚀 Featured Projects
 
 <div align="center">
   <table width="95%">
     <tr>
       <td style="background:#FFFFFF; color:#000000; border:2px solid #000000; border-radius:14px; padding:18px;">
-
-Smart Bandobast — Live Monitor Application
-
-React.js Node.js Express.js PostgreSQL PostGIS
-
-Developed a real-time management system to monitor field staff and ensure they remain within assigned zones. Incorporated GPS and geofencing concepts to support operational safety, coordination, and faster emergency response.
-
-  </td>
-</tr>
-<tr><td height="14"></td></tr>
-<tr>
-  <td style="background:#F2F2F2; color:#000000; border:2px solid #000000; border-radius:14px; padding:18px;">
-
-Scheme Saathi — Multilingual AI Welfare Platform
-
-Flutter Dart Agentic AI Speech-to-Text Location APIs
-
-Built a voice-first mobile app using Agentic AI to help citizens find eligible government welfare schemes. Automated multi-step workflows for eligibility verification, document checklists, and application guidance. Integrated GPS location services to guide users to nearby government service centers.
-
-  </td>
-</tr>
-<tr><td height="14"></td></tr>
-<tr>
-  <td style="background:#FFFFFF; color:#000000; border:2px solid #000000; border-radius:14px; padding:18px;">
-
-EventSphere — AI-Powered Event Management Platform
-
-React.js Node.js MongoDB
-
-Developed a React.js-based event management platform for creating, discovering, and managing events with a modern responsive UI. Integrated an AI smart planner, skill exchange, live events, and user profile modules to enhance user experience.
-
-  </td>
-</tr>
-
+        <b>Smart Bandobast — Live Monitor Application</b><br/>
+        <code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>PostgreSQL</code> <code>PostGIS</code><br/><br/>
+        Developed a real-time management system to monitor field staff and ensure they remain within assigned zones. Incorporated GPS and geofencing concepts to support operational safety, coordination, and faster emergency response.
+      </td>
+    </tr>
+    <tr><td height="14"></td></tr>
+    <tr>
+      <td style="background:#F2F2F2; color:#000000; border:2px solid #000000; border-radius:14px; padding:18px;">
+        <b>Scheme Saathi — Multilingual AI Welfare Platform</b><br/>
+        <code>Flutter</code> <code>Dart</code> <code>Agentic AI</code> <code>Speech-to-Text</code> <code>Location APIs</code><br/><br/>
+        Built a voice-first mobile app using Agentic AI to help citizens find eligible government welfare schemes. Automated multi-step workflows for eligibility verification, document checklists, and application guidance. Integrated GPS location services to guide users to nearby government service centers.
+      </td>
+    </tr>
+    <tr><td height="14"></td></tr>
+    <tr>
+      <td style="background:#FFFFFF; color:#000000; border:2px solid #000000; border-radius:14px; padding:18px;">
+        <b>EventSphere — AI-Powered Event Management Platform</b><br/>
+        <code>React.js</code> <code>Node.js</code> <code>MongoDB</code><br/><br/>
+        Developed a React.js-based event management platform for creating, discovering, and managing events with a modern responsive UI. Integrated an AI smart planner, skill exchange, live events, and user profile modules to enhance user experience.
+      </td>
+    </tr>
   </table>
 </div>
 
-Education
+<br/>
+
+## 🎓 Education
 
 <div align="center">
-
-Qualification
-
-Institution
-
-Timeline
-
-Score
-
-B.Tech in CSE (Cyber Security)
-
-Ramachandra College of Engineering(A), Eluru
-
-2023 – 2027
-
-CGPA: 8.6
-
-Intermediate (MPC)
-
-Sri Chaitanya Junior College, Eluru
-
-2021 – 2023
-
-89%
-
-Secondary School Certificate (SSC)
-
-Dr. K.K.R.'s Gowtham School, Eluru
-
-2020 – 2021
-
-99%
-
+  <table width="95%">
+    <tr>
+      <th align="left" style="background:#000000; color:#FFFFFF; padding:10px;">Qualification</th>
+      <th align="left" style="background:#000000; color:#FFFFFF; padding:10px;">Institution</th>
+      <th align="center" style="background:#000000; color:#FFFFFF; padding:10px;">Timeline</th>
+      <th align="center" style="background:#000000; color:#FFFFFF; padding:10px;">Score</th>
+    </tr>
+    <tr>
+      <td style="background:#FFFFFF; color:#000000; padding:10px;"><b>B.Tech in CSE (Cyber Security)</b></td>
+      <td style="background:#FFFFFF; color:#000000; padding:10px;">Ramachandra College of Engineering(A), Eluru</td>
+      <td align="center" style="background:#FFFFFF; color:#000000; padding:10px;">2023 – 2027</td>
+      <td align="center" style="background:#FFFFFF; color:#000000; padding:10px;"><b>CGPA: 8.6</b></td>
+    </tr>
+    <tr>
+      <td style="background:#F2F2F2; color:#000000; padding:10px;"><b>Intermediate (MPC)</b></td>
+      <td style="background:#F2F2F2; color:#000000; padding:10px;">Sri Chaitanya Junior College, Eluru</td>
+      <td align="center" style="background:#F2F2F2; color:#000000; padding:10px;">2021 – 2023</td>
+      <td align="center" style="background:#F2F2F2; color:#000000; padding:10px;"><b>89%</b></td>
+    </tr>
+    <tr>
+      <td style="background:#FFFFFF; color:#000000; padding:10px;"><b>Secondary School Certificate (SSC)</b></td>
+      <td style="background:#FFFFFF; color:#000000; padding:10px;">Dr. K.K.R.'s Gowtham School, Eluru</td>
+      <td align="center" style="background:#FFFFFF; color:#000000; padding:10px;">2020 – 2021</td>
+      <td align="center" style="background:#FFFFFF; color:#000000; padding:10px;"><b>99%</b></td>
+    </tr>
+  </table>
 </div>
 
-Certifications
+<br/>
+
+## 📜 Certifications
 
 <div align="center">
   <table width="90%">
@@ -207,7 +191,9 @@ Certifications
   </table>
 </div>
 
-Achievements & Awards
+<br/>
+
+## 🏆 Achievements & Awards
 
 <div align="center">
   <table width="90%">
@@ -229,17 +215,16 @@ Achievements & Awards
   </table>
 </div>
 
-Currently Exploring
+<br/>
+
+## 🔍 Currently Exploring
 
 <div align="center">
   <table width="90%">
     <tr>
       <td style="background:#FFFFFF; color:#000000; border:2px solid #000000; border-radius:14px; padding:18px;">
-
 Deepening knowledge in cloud security architecture, applied AI agents for real-world workflows, and advanced React performance patterns — while continuing to build products that are secure by design.
-
-  </td>
-</tr>
-
+      </td>
+    </tr>
   </table>
 </div>
